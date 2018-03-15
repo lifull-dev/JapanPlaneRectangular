@@ -1,0 +1,21 @@
+{
+  "name": "jpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/jpr.js",
+  "scripts": {
+    "test": "mocha test/test-jpr"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/lifull-dev/JapanPlaneRectangular.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "proj4": "^2.4.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
